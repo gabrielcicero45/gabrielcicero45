@@ -1,9 +1,7 @@
-### Hi there, I'm Cicero Gabriel.I'm a web developer👋
+### Hi there, I'm Cicero Gabriel. I'm a web developer👋
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/gabrielcicero45)](https://github.com/gabrielcicero45)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cicero-medeiros-6a6b56172/)](https://www.linkedin.com/in/cicero-medeiros-6a6b56172/)
 <div style="height:150px;">
-
  <div>
   <a href="https://gabrielcicero45.github.io/">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrielcicero45&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide=issues"/>
