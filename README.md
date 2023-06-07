@@ -4,7 +4,7 @@
 <div style="height:150px;">
  <div>
   <a href="https://gabrielcicero45.github.io/">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrielcicero45&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide=issues"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrielcicero45&show_icons=true&theme=tokyonight&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielcicero45&layout=compact&langs_count=5&theme=tokyonight"/>
 </div>
 <div style="display: inline_block"><br>
